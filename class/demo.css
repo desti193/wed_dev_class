@@ -1,0 +1,35 @@
+h1{
+    color: red;
+}
+
+span, em{
+    color: green;
+}
+
+.special{
+    list-style-type: none;
+    color: orange;
+    font-weight: bold;
+}
+
+li.special-too{
+    color: brown;
+    font-weight: bold;
+}
+/* styling based on locations */
+
+/* style the anchor tag inside of a p tag */
+
+p a{
+  color: rebeccapurple;
+  font-weight: bold;
+}
+
+div + ul{
+    background-color: hotpink;
+}
+
+h1.special-too + p{
+    color: blue;
+    font-size: 3rem;
+}

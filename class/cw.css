@@ -1,0 +1,29 @@
+.des-web{
+    border: solid 2px black;
+}
+
+.dev{
+    color: deeppink;
+    border-bottom: dotted 7px purple;
+}
+
+.comment{
+    color: darkgray;
+}
+
+.picker{
+    border: solid 5px purple;
+}
+
+em{
+    color: green;
+    font-weight: bold;
+}
+
+h4{
+    font-weight: bold;
+}
+
+span{
+    color: red;
+}
